@@ -31,7 +31,7 @@
       <div class="kicker mono">// développeur en formation</div>
       <h1>Kiki Lucandro</h1>
       <p class="lede">
-        Étudiant en BTS SIO option SLAM à Vannes, à la recherche d'un stage.
+        Étudiant en BTS SIO option SLAM à Lorient, à la recherche d'un stage.
         <!-- À COMPLÉTER : remplace/ajuste cette phrase avec ta propre accroche -->
       </p>
       <div class="cta-row">
@@ -44,7 +44,7 @@
       <h2>À propos <span class="tag mono">who_am_i</span></h2>
       <p>
         <!-- À COMPLÉTER : 3-4 phrases de présentation (parcours, ce que tu aimes coder, ce que tu cherches) -->
-        <span class="fill">[À compléter : ta présentation ici]</span>
+        <span class="fill">[À compléter ]</span>
       </p>
     </section>
 
@@ -53,7 +53,7 @@
       <div class="skills">
         <span class="skill">SQL</span>
         <span class="skill">HTML / CSS</span>
-        <span class="skill fill">[À compléter]</span>
+        <span class="skill fill">[Java]</span>
         <span class="skill fill">[À compléter]</span>
         <span class="skill fill">[À compléter]</span>
       </div>
