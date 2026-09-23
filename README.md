@@ -41,7 +41,7 @@
     </section>
 
     <section id="apropos">
-      <h2>À propos <span class="tag mono">who_am_i</span></h2>
+      <h2>À propos</h2>
       <p>
         <!-- À COMPLÉTER : 3-4 phrases de présentation (parcours, ce que tu aimes coder, ce que tu cherches) -->
         <span class="fill">[À compléter ]</span>
@@ -49,18 +49,18 @@
     </section>
 
     <section id="competences">
-      <h2>Compétences <span class="tag mono">stack</span></h2>
+      <h2>Compétences</h2>
       <div class="skills">
         <span class="skill">SQL</span>
         <span class="skill">HTML / CSS</span>
-        <span class="skill fill">[Java]</span>
+        <span class="skill fill">Java</span>
         <span class="skill fill">[À compléter]</span>
         <span class="skill fill">[À compléter]</span>
       </div>
     </section>
 
     <section id="projets">
-      <h2>Projets <span class="tag mono">./projets</span></h2>
+      <h2>Projets</h2>
 
       <div class="project">
         <h3>Fiche de révision SQL interactive</h3>
@@ -88,8 +88,8 @@
     <section id="contact">
       <h2>Contact <span class="tag mono">get_in_touch()</span></h2>
       <ul>
-        <li>Email : <a href="mailto:contact@exemple.fr" class="fill">[À compléter : ton email]</a></li>
-        <li>GitHub : <a href="#" class="fill">[À compléter : lien GitHub]</a></li>
+        <li>Email : <a href="mailto:contact@exemple.fr" class="fill">lucandrokiki0@gmail.com</a></li>
+        <li>GitHub : <a href="#" class="fill">(https://lucandrokiki0-crypto.github.io/portefolio/)</a></li>
         <li>LinkedIn : <a href="#" class="fill">[À compléter : lien LinkedIn]</a></li>
       </ul>
     </section>
