@@ -1,5 +1,5 @@
 # portefolio
-
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -15,7 +15,7 @@
 <div class="layout">
 
   <nav class="gutter">
-    <div class="brand"><strong>kiki_lucandro</strong><br>portfolio.html</div>
+    <div class="brand"><strong>kiki_lucandro</strong></div>
     <ul>
       <li><a href="#accueil"><span class="ln mono">01</span>Accueil</a></li>
       <li><a href="#apropos"><span class="ln mono">02</span>À propos</a></li>
@@ -86,7 +86,7 @@
     </section>
 
     <section id="contact">
-      <h2>Contact <span class="tag mono">get_in_touch()</span></h2>
+      <h2>Contact</h2>
       <ul>
         <li>Email : <a href="mailto:contact@exemple.fr" class="fill">lucandrokiki0@gmail.com</a></li>
         <li>GitHub : <a href="#" class="fill">(https://lucandrokiki0-crypto.github.io/portefolio/)</a></li>
