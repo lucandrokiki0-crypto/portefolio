@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Projets — Kiki Lucandro</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="layout">
+  <nav class="gutter">
+    <div class="brand"><strong>kiki_lucandro</strong><br>portfolio</div>
+    <ul>
+      <li><a href="index.html"><span class="ln mono">01</span>Accueil</a></li>
+      <li><a href="apropos.html"><span class="ln mono">02</span>À propos</a></li>
+      <li><a href="competences.html"><span class="ln mono">03</span>Compétences</a></li>
+      <li><a href="projets.html" class="active"><span class="ln mono">04</span>Projets</a></li>
+      <li><a href="contact.html"><span class="ln mono">05</span>Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <div class="page projets">
+      <h2>Projets <span class="tag mono">./projets</span></h2>
+
+      <div class="project">
+        <h3>Fiche de révision SQL interactive</h3>
+        <p>Support HTML interactif créé pour réviser les bases du SQL (requêtes, jointures, etc.).</p>
+        <div class="stack mono">HTML · CSS · JavaScript</div>
+        <a class="link" href="#">Voir le projet →</a>
+      </div>
+
+      <div class="project">
+        <h3><span class="fill">[À compléter : nom du projet]</span></h3>
+        <p><span class="fill">[À compléter : description courte du projet]</span></p>
+        <div class="stack mono">[techs]</div>
+        <a class="link" href="#">Voir le projet →</a>
+      </div>
+
+      <div class="project">
+        <h3><span class="fill">[À compléter : nom du projet]</span></h3>
+        <p><span class="fill">[À compléter : description courte du projet]</span></p>
+        <div class="stack mono">[techs]</div>
+        <a class="link" href="#">Voir le projet →</a>
+      </div>
+    </div>
+    <footer>Vannes, Bretagne — BTS SIO SLAM</footer>
+  </main>
+</div>
+</body>
+</html>
