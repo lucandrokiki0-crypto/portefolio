@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact — Kiki Lucandro</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="layout">
+  <nav class="gutter">
+    <div class="brand"><strong>kiki_lucandro</strong><br>portfolio</div>
+    <ul>
+      <li><a href="index.html"><span class="ln mono">01</span>Accueil</a></li>
+      <li><a href="apropos.html"><span class="ln mono">02</span>À propos</a></li>
+      <li><a href="competences.html"><span class="ln mono">03</span>Compétences</a></li>
+      <li><a href="projets.html"><span class="ln mono">04</span>Projets</a></li>
+      <li><a href="contact.html" class="active"><span class="ln mono">05</span>Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <div class="page contact">
+      <h2>Contact <span class="tag mono">get_in_touch()</span></h2>
+      <ul>
+        <li>Email : <a href="mailto:contact@exemple.fr" class="fill">[À compléter : ton email]</a></li>
+        <li>GitHub : <a href="#" class="fill">[À compléter : lien GitHub]</a></li>
+        <li>LinkedIn : <a href="#" class="fill">[À compléter : lien LinkedIn]</a></li>
+        <li>CV : <a href="cv-kiki-lucandro.pdf" download>Télécharger mon CV (PDF)</a></li>
+      </ul>
+    </div>
+    <footer>Vannes, Bretagne — BTS SIO SLAM</footer>
+  </main>
+</div>
+</body>
+</html>
